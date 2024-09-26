@@ -1,0 +1,307 @@
+Node Feature Group,Edge Feature Group,Adjacent Edges Only,Model,Average Accuracy,Average Precision,Average Recall,Average F-beta
+['CO'],['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.968917748,0.881204003,0.840532365,0.87667944
+['CO'],['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.898899339,0.643841695,0.243012704,0.548904752
+['CO'],['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.950045635,0.840014064,0.691470054,0.81272095
+['CO'],['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.970491778,0.886061625,0.851058681,0.881841034
+['CO'],['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.963019971,0.902857093,0.757047792,0.884347058
+['CO'],['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.968525594,0.888644057,0.826678766,0.881783298
+['CO'],['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.968131894,0.885401222,0.826678766,0.878937103
+['CO'],['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.624376963,0.552112148,0.910102843,0.556417389
+['CO'],['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.901651378,0.676640543,0.256805808,0.576708049
+['CO'],['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.968131894,0.888311275,0.823169994,0.881162805
+['CO'],['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.968130347,0.874167644,0.840471869,0.87053718
+['CO'],['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.893790511,0.388333333,0.143133696,0.331099528
+['CO'],['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.960655446,0.860803739,0.774894132,0.848887699
+['CO'],['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.967738966,0.874541951,0.837205082,0.870143235
+['CO'],['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.964588587,0.882049893,0.795039322,0.871894752
+['CO'],['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.968526368,0.900098207,0.81276467,0.890376287
+['CO'],['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.967737419,0.890334892,0.816091954,0.882279583
+['CO'],['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.799627183,0.70843032,0.916636419,0.713381235
+['CO'],['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.926831211,0.797668085,0.479310345,0.745074799
+['CO'],['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.963024612,0.903546507,0.757652753,0.882366525
+['CO'],['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.968522501,0.886412644,0.829885058,0.880260677
+['CO'],['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.899685968,0.646447755,0.253418028,0.555531156
+['CO'],['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.94217162,0.840853252,0.6107683,0.782620379
+['CO'],['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.970097304,0.874159825,0.861282517,0.872702854
+['CO'],['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.95042464,0.822896361,0.722444041,0.810819709
+['CO'],['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.968525594,0.888644057,0.826678766,0.881783298
+['CO'],['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.968131894,0.886233447,0.826678766,0.879631252
+['CO'],['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.801199666,0.745074214,0.885299456,0.742896582
+['CO'],['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.943328744,0.810941993,0.603629764,0.772361697
+['CO'],['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.966556317,0.889175922,0.805626134,0.879959716
+['CO'],['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.967736646,0.873728231,0.836963097,0.869824676
+['CO'],['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.891037699,0.367503085,0.131881428,0.310238299
+['CO'],['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.949250499,0.85113823,0.669630974,0.817858836
+['CO'],['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.967345266,0.869248683,0.840532365,0.865960446
+['CO'],['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.961052241,0.902366947,0.736055656,0.881376798
+['CO'],['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.966164937,0.883227813,0.809316394,0.875037287
+['CO'],['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.969310676,0.889519614,0.833514822,0.88348419
+['CO'],['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.966166484,0.864073528,0.837326074,0.860373912
+['CO'],['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.951596461,0.861795244,0.672413793,0.835893522
+['CO'],['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.961051467,0.861279719,0.792135511,0.851905487
+['CO'],"['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.969309902,0.889787211,0.833393829,0.883686463
+['CO'],"['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.900471049,0.656957559,0.256866304,0.566188302
+['CO'],"['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.943727086,0.838989134,0.613793103,0.794441104
+['CO'],"['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.970098077,0.874417744,0.861343013,0.872876558
+['CO'],"['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.967737419,0.892057627,0.816212946,0.883499491
+['CO'],"['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.968525594,0.888644057,0.826678766,0.881783298
+['CO'],"['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.968131894,0.886233447,0.826678766,0.879631252
+['CO'],"['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.967345266,0.857877291,0.854385965,0.857059106
+['CO'],"['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.953957892,0.848454851,0.689957653,0.819831881
+['CO'],"['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.968129573,0.890674891,0.81954023,0.882913608
+['CO'],"['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.96813112,0.876974741,0.837023594,0.872660104
+['CO'],"['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.892220349,0.48280112,0.191470054,0.415327094
+['CO'],"['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.954368609,0.863776866,0.712825166,0.840358016
+['CO'],"['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.968131894,0.878237275,0.837205082,0.873386574
+['CO'],"['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.95633866,0.892593941,0.69800363,0.866612705
+['CO'],"['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.967346039,0.886919159,0.816333938,0.879121532
+['CO'],"['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.969310676,0.889519614,0.833514822,0.88348419
+['CO'],"['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.625611435,0.562405401,0.913793103,0.566340689
+['CO'],"['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.959076776,0.883295244,0.728675136,0.864085761
+['CO'],"['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.964196433,0.870259569,0.819782214,0.861460773
+"['CO', 'BD']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.970885479,0.88612811,0.854325469,0.882712953
+"['CO', 'BD']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.939395604,0.820006748,0.581730188,0.775776093
+"['CO', 'BD']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.953961759,0.849323308,0.721173624,0.820955572
+"['CO', 'BD']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.971278406,0.88642771,0.857834241,0.883292667
+"['CO', 'BD']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.949250499,0.820853436,0.701512402,0.805937874
+"['CO', 'BD']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.968917748,0.888928109,0.83000605,0.882537825
+"['CO', 'BD']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.966950791,0.884641194,0.816273442,0.877049641
+"['CO', 'BD']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.796083876,0.702182771,0.892740472,0.705405283
+"['CO', 'BD']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.904404963,0.710751993,0.284573503,0.608253069
+"['CO', 'BD']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.967738966,0.8856318,0.823351482,0.878467784
+"['CO', 'BD']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.966949244,0.88798439,0.812643678,0.879533631
+"['CO', 'BD']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.955927943,0.86648545,0.721294616,0.846891812
+"['CO', 'BD']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.94847702,0.885028342,0.628856624,0.841872676
+"['CO', 'BD']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.971671333,0.88162317,0.868300061,0.880081148
+"['CO', 'BD']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.940205436,0.848267771,0.587114338,0.806996179
+"['CO', 'BD']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.969703603,0.895806007,0.829764065,0.888689863
+"['CO', 'BD']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.937037266,0.767083985,0.780338778,0.760376284
+"['CO', 'BD']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.96813112,0.850471822,0.875257108,0.852590165
+"['CO', 'BD']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.935878595,0.808359916,0.573200242,0.775086292
+"['CO', 'BD']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.955144409,0.784880802,0.847186933,0.789461248
+"['CO', 'BD']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.97127918,0.883471741,0.861222021,0.881125808
+"['CO', 'BD']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.942151509,0.806595376,0.619479734,0.769977066
+"['CO', 'BD']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.951228285,0.827128826,0.712401694,0.807065727
+"['CO', 'BD']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.970097304,0.89598611,0.833393829,0.889213977
+"['CO', 'BD']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.962620856,0.891979726,0.763883848,0.87672635
+"['CO', 'BD']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.966951565,0.88988589,0.809255898,0.880820545
+"['CO', 'BD']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.966950791,0.88055665,0.82323049,0.874061999
+"['CO', 'BD']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.966950791,0.842392311,0.875257108,0.845099757
+"['CO', 'BD']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.943744102,0.861070411,0.593647913,0.79682852
+"['CO', 'BD']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.965771236,0.861847598,0.837023594,0.858702931
+"['CO', 'BD']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.967343719,0.883700096,0.819600726,0.87671543
+"['CO', 'BD']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.958297882,0.864778613,0.75323654,0.848735202
+"['CO', 'BD']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.934695172,0.891348371,0.485964912,0.820352098
+"['CO', 'BD']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.971278406,0.878490338,0.868300061,0.877276553
+"['CO', 'BD']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.942160017,0.85078831,0.631336963,0.790859431
+"['CO', 'BD']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.971278406,0.897536325,0.843799153,0.891805162
+"['CO', 'BD']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.937442569,0.816999151,0.679612825,0.751636471
+"['CO', 'BD']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.968524048,0.859597346,0.864851785,0.85977309
+"['CO', 'BD']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.944923658,0.816643025,0.656563823,0.794752492
+"['CO', 'BD']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.946892162,0.802154566,0.756200847,0.788574641
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.971278406,0.88107957,0.864730793,0.879286397
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.923294092,0.816119803,0.423169994,0.73261904
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.963409805,0.852574531,0.819419238,0.849060252
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.968917748,0.891898799,0.826436782,0.884764682
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.963019198,0.891818524,0.771143376,0.876661381
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.966950018,0.889433235,0.80907441,0.880636014
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.968131894,0.887426609,0.826497278,0.880688526
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.455873026,0.418834605,0.94077435,0.424302915
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.953981096,0.849055533,0.705626134,0.825512657
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.966164163,0.87041315,0.826678766,0.865460215
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.966557864,0.874922522,0.822988506,0.869247613
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.955935678,0.860611143,0.732486388,0.842368216
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.957910369,0.869701899,0.740592862,0.849737765
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.970492551,0.87819437,0.861403509,0.876177473
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.948084093,0.8893452,0.643133696,0.797088398
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.969703603,0.895776048,0.829885058,0.888681632
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.944128521,0.802316641,0.777737447,0.786691157
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.969312223,0.860598695,0.871627344,0.86156267
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.967342172,0.886614812,0.816091954,0.878922687
+"['CO', 'BD']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.946481444,0.766444786,0.846823956,0.768086117
+"['CO', 'BD', 'WE']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.970491778,0.873509001,0.868179068,0.872732042
+"['CO', 'BD', 'WE']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.953174358,0.842397583,0.714398064,0.819307068
+"['CO', 'BD', 'WE']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.933112634,0.798809524,0.529703569,0.744676771
+"['CO', 'BD', 'WE']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.970098077,0.890350527,0.840290381,0.884907141
+"['CO', 'BD', 'WE']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.962227929,0.85840796,0.802056866,0.852074465
+"['CO', 'BD', 'WE']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.967344492,0.895916459,0.805626134,0.885843414
+"['CO', 'BD', 'WE']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.966557091,0.889460116,0.808711434,0.879930675
+"['CO', 'BD', 'WE']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.796818681,0.701118958,0.895946764,0.704879937
+"['CO', 'BD', 'WE']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.902830933,0.680421607,0.308892922,0.593648929
+"['CO', 'BD', 'WE']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.962227929,0.916996337,0.739443436,0.89209014
+"['CO', 'BD', 'WE']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.968524048,0.897213828,0.816091954,0.888242058
+"['CO', 'BD', 'WE']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.951239113,0.785823805,0.730127042,0.774783327
+"['CO', 'BD', 'WE']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.970099624,0.882601168,0.850816697,0.87915632
+"['CO', 'BD', 'WE']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.968132667,0.883057757,0.829885058,0.877316104
+"['CO', 'BD', 'WE']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.918566589,0.761422354,0.584573503,0.653566022
+"['CO', 'BD', 'WE']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.970098077,0.897307115,0.833272837,0.890345476
+"['CO', 'BD', 'WE']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.937847099,0.808187737,0.678281912,0.771383852
+"['CO', 'BD', 'WE']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.800413811,0.725574661,0.899092559,0.727373268
+"['CO', 'BD', 'WE']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.937847099,0.808635644,0.597640653,0.778951896
+"['CO', 'BD', 'WE']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.944915149,0.726984976,0.840532365,0.736089166
+"['CO', 'BD', 'WE']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.970491778,0.906002793,0.826376286,0.897261891
+"['CO', 'BD', 'WE']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.938636047,0.79377961,0.590260133,0.753069621
+"['CO', 'BD', 'WE']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.921327909,0.779395604,0.445493043,0.698801298
+"['CO', 'BD', 'WE']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.968916201,0.88904209,0.829764065,0.882617275
+"['CO', 'BD', 'WE']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.964593227,0.873757386,0.805868119,0.86596893
+"['CO', 'BD', 'WE']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.967738193,0.891080453,0.816273442,0.882636393
+"['CO', 'BD', 'WE']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.963802732,0.888518597,0.784452511,0.876039412
+"['CO', 'BD', 'WE']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.966559411,0.831599355,0.885662432,0.836471456
+"['CO', 'BD', 'WE']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.942958248,0.806748065,0.621052632,0.772642326
+"['CO', 'BD', 'WE']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.964982287,0.927498721,0.749909256,0.905414481
+"['CO', 'BD', 'WE']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.967345266,0.893346859,0.809195402,0.883965963
+"['CO', 'BD', 'WE']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.960666275,0.885003576,0.754264973,0.867982569
+"['CO', 'BD', 'WE']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.961455223,0.879301252,0.768058076,0.859951896
+"['CO', 'BD', 'WE']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.966557864,0.888517138,0.805505142,0.879341321
+"['CO', 'BD', 'WE']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.93392556,0.814896409,0.612038718,0.716597742
+"['CO', 'BD', 'WE']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.969312996,0.894297857,0.829945554,0.887114903
+"['CO', 'BD', 'WE']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.95160961,0.799637991,0.784331519,0.794534861
+"['CO', 'BD', 'WE']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.966160296,0.843197668,0.868118572,0.845218406
+"['CO', 'BD', 'WE']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.963405937,0.874952032,0.788324259,0.86535744
+"['CO', 'BD', 'WE']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.928399053,0.881206349,0.450816697,0.754923674
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.968525594,0.893972803,0.819600726,0.885800173
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.932327553,0.801290323,0.519419238,0.748401578
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.942546757,0.801405375,0.645311555,0.773250041
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.964986155,0.876715858,0.805747126,0.868788471
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.956330152,0.843100081,0.757047792,0.833344975
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.96813112,0.893844267,0.816031458,0.885191682
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.968525594,0.909128079,0.805747126,0.896436877
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.966953112,0.848682653,0.864730793,0.849974232
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.943742555,0.826407008,0.610707804,0.784491042
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.962226382,0.881869395,0.783908046,0.867424799
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.966952338,0.893176791,0.805747126,0.883344311
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.909144842,0.666846598,0.338233515,0.599457831
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.970099624,0.872636895,0.864730793,0.87167753
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.967346039,0.891015274,0.81246219,0.882313953
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.932732082,0.737947547,0.731155475,0.723530502
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.971278406,0.903743805,0.836721113,0.896461515
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.929580156,0.81807639,0.568965517,0.755480913
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.968916975,0.8542676,0.878705384,0.856290616
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.966949244,0.883745584,0.815970962,0.876412253
+"['CO', 'BD', 'WE']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.918180623,0.833673195,0.415728978,0.638945067
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.972458735,0.888745587,0.868179068,0.886361268
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.951224417,0.832661225,0.722867514,0.809876012
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.919754653,0.74421978,0.441742287,0.68370472
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.967735099,0.876471453,0.833272837,0.871902656
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.957916557,0.888327152,0.719419238,0.860973483
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.968527915,0.89852347,0.81615245,0.889277889
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.964982287,0.882024754,0.808892922,0.872819671
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.951992482,0.679066359,0.699758016,0.680977702
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.903618335,0.705726496,0.288142771,0.60258523
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.958688489,0.857373035,0.791954023,0.844803308
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.958688489,0.857373035,0.791954023,0.844803308
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.968132667,0.896993818,0.812643678,0.887694609
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.950023978,0.815852484,0.679431337,0.794556089
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.939013505,0.862013375,0.551361162,0.809039772
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.969706697,0.892095851,0.837023594,0.885726203
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.935493402,0.830996516,0.577434967,0.759693172
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.968918522,0.882058742,0.840471869,0.877398985
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.928793528,0.770484516,0.704234725,0.730273412
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.964590907,0.827358507,0.871808832,0.831234906
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.935880915,0.811300976,0.569751966,0.776220313
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.935484894,0.678260109,0.829643073,0.690054269
+"['CO', 'BD', 'WE', 'LB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.935484894,0.678260109,0.829643073,0.690054269
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.971279953,0.892832168,0.850695705,0.888209747
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.927603143,0.800143073,0.467634604,0.736861396
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.951601101,0.827695676,0.710707804,0.803217687
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.970098851,0.905172584,0.82292801,0.896084837
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.959482079,0.879826323,0.754083485,0.862210838
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.966164937,0.901532439,0.788203267,0.888565656
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.965377535,0.943533747,0.739503932,0.917355053
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.967738966,0.870707171,0.843617665,0.867440094
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.936658262,0.813495056,0.545674531,0.757998174
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.965769689,0.909964769,0.781185723,0.892575795
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.965769689,0.909964769,0.781185723,0.892575795
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.968919295,0.900619761,0.816091954,0.891329836
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.954363195,0.859903067,0.715366001,0.838774318
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.940587535,0.866157435,0.558197217,0.813719455
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.967738193,0.897345186,0.809134906,0.887486358
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.902027288,0.637241923,0.608832426,0.603708472
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.970883932,0.889598192,0.850635209,0.88525886
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.924469007,0.767609826,0.626194797,0.705064826
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.96813112,0.850918255,0.875257108,0.85298067
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.947678016,0.824735379,0.677495463,0.804933868
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.931930758,0.833457835,0.593526921,0.742280667
+"['CO', 'BD', 'WE', 'LB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.931930758,0.833457835,0.593526921,0.742280667
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.970491004,0.89333045,0.840350877,0.8875596
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.941381898,0.811230769,0.610586812,0.777517282
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.950836904,0.827055662,0.712643678,0.800172117
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.963016877,0.873578241,0.788324259,0.863982698
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.963801185,0.902021737,0.763641863,0.885610324
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.966557091,0.882854916,0.812583182,0.875257223
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.96498074,0.855070709,0.843799153,0.852729285
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.796028959,0.697039672,0.895765275,0.701079563
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.959074455,0.861105261,0.743617665,0.845594682
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.963801958,0.932228758,0.735934664,0.905981188
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.963801958,0.932228758,0.735934664,0.905981188
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.968919295,0.900619761,0.816091954,0.891329836
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.944517581,0.810589357,0.63399879,0.783146087
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.94649382,0.860031512,0.634422263,0.822988705
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.969706697,0.889622066,0.836963097,0.88396201
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.94806785,0.911652973,0.603992741,0.861772067
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.970491778,0.896466921,0.836842105,0.890037767
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.933898489,0.704594759,0.795765275,0.702260511
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.797267299,0.704925891,0.899758016,0.708623262
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.962235664,0.896515363,0.753781004,0.877948683
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.926816515,0.676571234,0.78354507,0.673209045
+"['CO', 'BD', 'WE', 'LB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.926816515,0.676571234,0.78354507,0.673209045
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.967737419,0.893680811,0.812522686,0.884801256
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.927623254,0.812773455,0.469207502,0.742545427
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.940620794,0.785930736,0.636963097,0.754890143
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.969704376,0.884225795,0.843799153,0.879917698
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.966560958,0.89547792,0.802298851,0.884476158
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.96813112,0.896865306,0.812522686,0.887620341
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.956327831,0.879469755,0.746218996,0.859594925
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.963803505,0.826904696,0.861101028,0.830180102
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.903226181,0.685053589,0.284694495,0.594335494
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.958691583,0.922835512,0.698064126,0.888856206
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.969311449,0.898166646,0.822988506,0.889982143
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.953975682,0.880687295,0.691409558,0.854380564
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.961844283,0.858162072,0.806110103,0.849074445
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.968528688,0.886391162,0.830066546,0.879920897
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.893764986,0.492228649,0.407320024,0.45222781
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.970098077,0.896648863,0.833333333,0.889803721
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.920526585,0.72309708,0.709981851,0.684475423
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.965770462,0.831473092,0.878705384,0.835712102
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.934700586,0.814745853,0.555898367,0.775892155
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_sci'],FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.919348576,0.722427497,0.695281307,0.67896145
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.968916975,0.886391093,0.833212341,0.880423756
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.962231023,0.843414405,0.819358742,0.840864636
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.955535789,0.841071467,0.745735027,0.823609351
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.963804279,0.878342642,0.791772535,0.86867789
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.963412125,0.881986378,0.788687235,0.870305816
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.968524821,0.896852426,0.819479734,0.888083311
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.955143635,0.841344962,0.788384755,0.831856199
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.624768343,0.541234487,0.920326679,0.547824825
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.932327553,0.790769231,0.53030853,0.732714955
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.965768915,0.916281143,0.770961888,0.897568737
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.970491004,0.902190924,0.829885058,0.894328168
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.958686169,0.879838826,0.73569268,0.861769057
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.962239531,0.877806748,0.774954628,0.86156511
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.964590134,0.883599729,0.791772535,0.873367192
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.939426543,0.815615679,0.663399879,0.779537836
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.968130347,0.909005673,0.798850575,0.895946954
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.93036369,0.774376019,0.685359952,0.742756875
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.967740513,0.862760349,0.850756201,0.861531313
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.955937224,0.865935936,0.726194797,0.847364843
+"['CO', 'BD', 'WE', 'LB', 'TB']",['scaled_mci'],FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.916624383,0.649471573,0.81276467,0.650862862
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.969704376,0.890105264,0.836781609,0.884287567
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.949255913,0.829327731,0.688324259,0.808069674
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.916584936,0.713088597,0.401935874,0.650971763
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.963801958,0.879426744,0.788021779,0.869273902
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.961054561,0.898867521,0.746884453,0.878804438
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.966557864,0.889152673,0.805626134,0.879925297
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.956714571,0.810545399,0.854688445,0.81146751
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.794453382,0.694803269,0.881790684,0.697699174
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.941385765,0.786918277,0.638838476,0.76392908
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",TRUE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.95869081,0.836045694,0.823049002,0.830482852
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.res_gated_graph_conv.ResGatedGraphConv'>,0.970491004,0.902005053,0.829885058,0.894202343
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gat_conv.GATConv'>,0.94808796,0.793741922,0.671143376,0.773507243
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gatv2_conv.GATv2Conv'>,0.956334793,0.845880041,0.761343013,0.831612827
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.transformer_conv.TransformerConv'>,0.967738966,0.881036267,0.826497278,0.875025407
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gin_conv.GINEConv'>,0.940991291,0.876098883,0.608287961,0.81504514
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gmm_conv.GMMConv'>,0.970098851,0.897452253,0.833333333,0.890468795
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.nn_conv.NNConv'>,0.91504726,0.705676333,0.687295826,0.663605139
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.gen_conv.GENConv'>,0.965377535,0.838450501,0.864851785,0.840549705
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.pdn_conv.PDNConv'>,0.961043733,0.881905752,0.752813067,0.865623416
+"['CO', 'BD', 'WE', 'LB', 'TB']","['scaled_sci', 'scaled_mci']",FALSE,<class 'torch_geometric.nn.conv.general_conv.GeneralConv'>,0.926037622,0.625455179,0.875196612,0.643629516

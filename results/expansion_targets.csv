@@ -1,0 +1,10 @@
+fips,county_name,has_compA_dealer,has_compB_dealer,prediction_probs
+25003,"Berkshire County, MA ",1,1,0.97455230
+08013,"Boulder County, CO",1,0,0.91796637
+37147,"Pitt County, NC ",0,1,0.80917853
+12083,"Marion County, FL ",1,0,0.76417880
+06107,"Tulare County, CA ",1,0,0.69461125
+28075,"Lauderdale County, MS ",1,0,0.61750800
+13059,"Clarke County, GA ",1,0,0.60570050
+36007,"Broome County, NY ",1,0,0.54889613
+13153,"Houston County, GA",0,0,0.53783196
