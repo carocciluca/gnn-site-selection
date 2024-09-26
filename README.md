@@ -54,12 +54,14 @@ gnn-site-selection/
 ├── README.md                          # This README file <br>
 └── requirements.txt                   # The required packages and versions fir this project
 
-**Note**: Some raw data files cannot be provided due to size/copyright constraints. Below are the sources of publicly available files used in this study:
+### A note on data availability
+**Note**: Some raw data files cannot be provided due to size/copyright constraints. Preprocessed files may be requested from the authors. Below are the sources of publicly available files used in this study:
+* **County Level Demographics**: http://simplyanalytics.com/
 * **Social Connectedness Data**: https://data.humdata.org/dataset/social-connectedness-index
 * **Commuting Data**: https://www.census.gov/topics/employment/commuting/guidance/flows.html
 * **Population Flow Data**: https://github.com/GeoDS/COVID19USFlows-WeeklyFlows
 * **Migration Data**: https://www.census.gov/topics/population/migration/guidance/county-to-county-migration-flows.html
-* 
+
 
 ## 4. Installation
 1. **Clone the repository**:
